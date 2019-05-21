@@ -1,0 +1,11 @@
+Origin: kid1carus' repo
+Label: kid1carus' repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: kid1carus' repo in the cloud
+
+SHA256:
+ 20df5f8deb63e3a2f71940e97f744c1d3e21d49660b17bf236064cae4d9485fb 806 Packages.bz2
