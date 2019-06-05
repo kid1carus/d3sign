@@ -1,11 +1,12 @@
-Origin: kid1carus' repo
-Label: kid1carus' repo
+Origin: kid1carus d3sign
+Label: kid1carus d3sign
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: kid1carus' repo in the cloud
+Description: Bringing beautiful, painstakingly detailed themes and icons to your iOS device and Mac.
 
 SHA256:
- 20df5f8deb63e3a2f71940e97f744c1d3e21d49660b17bf236064cae4d9485fb 806 Packages.bz2
+ 4671e8539da619ed398a091d795508f02c4d651c97eb0ed8844abaa08f061e57 805 Packages.bz2
+ 45a6191ac551fd6a7093e7dd8191d33f84853c18fe430b6cdceae60439b09f20 764 Packages.xz

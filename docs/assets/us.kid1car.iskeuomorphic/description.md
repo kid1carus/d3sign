@@ -1,1 +1,1 @@
-A skeuomorphic theme with beautiful painstakingly detailed photo-realistic icons.
+A skeuomorphic theme with beautiful & painstakingly detailed photorealistic icons.
